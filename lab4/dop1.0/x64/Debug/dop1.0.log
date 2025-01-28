@@ -1,0 +1,4 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (dop1.0.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  dop1.0.cpp
+D:\проекты vs\lab4\lab4\dop1.0\dop1.0.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  dop1.0.vcxproj -> D:\проекты vs\lab4\lab4\x64\Debug\dop1.0(var3).exe
