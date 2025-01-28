@@ -1,0 +1,3 @@
+﻿  dop3.2.cpp
+D:\проекты vs\lab4\lab4\dop3.2\dop3.2.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  dop3.2.vcxproj -> D:\проекты vs\lab4\lab4\x64\Debug\dop3.2.exe
