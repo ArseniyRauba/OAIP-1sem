@@ -1,0 +1,4 @@
+﻿  dop1.z1(var5).cpp
+D:\проекты vs\lab12\dop1.z1(var5)\dop1.z1(var5).cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\проекты vs\lab12\dop1.z1(var5)\dop1.z1(var5).cpp(6,16): warning C4101: j: неиспользованная локальная переменная
+  dop1.z1(var5).vcxproj -> D:\проекты vs\lab12\x64\Debug\dop1.z1(var5).exe
