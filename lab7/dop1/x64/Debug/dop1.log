@@ -1,0 +1,4 @@
+﻿  dop1.cpp
+D:\проекты vs\lab7\dop1\dop1.cpp(13,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\проекты vs\lab7\dop1\dop1.cpp(16,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  dop1.vcxproj -> D:\проекты vs\lab7\x64\Debug\dop1.exe
