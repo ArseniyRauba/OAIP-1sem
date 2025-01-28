@@ -1,0 +1,3 @@
+﻿  dop3.z1(var1).cpp
+D:\проекты vs\lab12\dop3.z1(var1)\dop3.z1(var1).cpp(14,34): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  dop3.z1(var1).vcxproj -> D:\проекты vs\lab12\x64\Debug\dop3.z1(var1).exe
