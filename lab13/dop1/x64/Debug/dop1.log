@@ -1,0 +1,5 @@
+﻿  dop1.cpp
+D:\лабы\ОАиП\lab13\dop1\dop1.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\лабы\ОАиП\lab13\dop1\dop1.cpp(15,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\лабы\ОАиП\lab13\dop1\dop1.cpp(8,9): warning C4101: j: неиспользованная локальная переменная
+  dop1.vcxproj -> D:\лабы\ОАиП\lab13\x64\Debug\dop1.exe
